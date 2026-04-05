@@ -1,9 +1,3 @@
-```
-I'm Nguyen Anh Kiet, a Computer Science student at Industrial University of Ho Chi Minh City
-```
-
-
-
 Badges
 ----------
 ||||
