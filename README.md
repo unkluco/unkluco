@@ -2,10 +2,13 @@
 I'm Nguyen Anh Kiet, a Computer Science student at Industrial University of Ho Chi Minh City
 ```
 
+
+
 Badges
 ----------
-- 🥈**Second Prize**, International Collegiate Programming Contest (ICPC) Southern Vietnam Regional, [2024]
-- 🥇**First Prize**, Specialized Informatics Division, Vietnam Student Informatics Olympiad, [2024]
+||||
+|-|-|-|
+|<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVzdWtxMzlnZXR5NGgyOWE0M2w1aXE5cjFxMmh6bnAzNHIzc3ViOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ypld5llL2sSxE2llBy/giphy.gif" width="150"/> <br/> <img src="https://img.shields.io/badge/🥇-First_Prize-yellow"/> <br/> Specialized Informatics Division, Vietnam National Collegiate Informatics Olympiad, [2024] </p> | <p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW03Zzd6MnVzaGFwZ2xxN3VqcWVjem8xeDFmaHZwczRjdjMwNXlucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/r3oZj1Oq6b1LoYuggH/giphy.gif" width="150"/> <br/> <img src="https://img.shields.io/badge/🥈-Second_Prize-lightgrey"/> <br/> International Collegiate Programming Contest (ICPC) Southern Vietnam Regional, [2024] </p> | <p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hoZDdtaWZpOXhmZTV3MWo4cGJnbm9tMGxoOXF6OTlwa2NtcXp1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YF4hpmKA0StoO7RSVV/giphy.gif" width="150"/> <br/> <img src="https://img.shields.io/badge/🥉-Third_Prize-orange"/> <br/> Vietnam National Collegiate Mathematics Olympiad, [2025] </p> |
 
 Teams
 ----------
@@ -13,7 +16,8 @@ Teams
 | Team | Members | Badges |
 |--------------|------------------------------|------------|
 |[***IUH.Tripl3K***](https://codeforces.com/team/139875)   | [`Kluco`](https://codeforces.com/profile/Kluco) [`KhangKoii`](https://codeforces.com/profile/KhangKoii)  [`Ktoxz`](https://codeforces.com/profile/Ktoxz)      | 🥈 **ICPC Vietnam Southern Provincial [2024]** |
-| [***IUH.HyperParameter***](https://codeforces.com/team/204307) | [`Kluco`](https://codeforces.com/profile/Kluco) [`banmkh6`](https://codeforces.com/profile/banmkh6) [`banmkh6`](https://codeforces.com/profile/banmkh6)| 🎉️ **ICPC Vietnam National [2025]** |
+| [***IUH.HyperParameter***](https://codeforces.com/team/204307) | [`Kluco`](https://codeforces.com/profile/Kluco) [`banmkh6`](https://codeforces.com/profile/banmkh6) [`taitruong256`](https://codeforces.com/profile/taitruong256)| 🎉️ **ICPC Vietnam National [2025]** |
+| [***IUH.HyperParameter (New)***](https://codeforces.com/team/204307) | [`Kluco`](https://codeforces.com/profile/Kluco) [`banmkh6`](https://codeforces.com/profile/banmkh6) [`Lolicodedao`](https://codeforces.com/profile/Lolicodedao)|  |
 
 
 Social 
